@@ -1,0 +1,68 @@
+C:/Users/miss_/Desktop/SFV/Mux.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/miss_/Desktop/SFV/Mux.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture Behavioral of mux
+
+} {} {}} C:/Users/miss_/Desktop/SFV/NOR.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/miss_/Desktop/SFV/NOR.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity norGate
+-- Compiling architecture Behavioral of norGate
+
+} {} {}} C:/Users/miss_/Desktop/SFV/AND.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/miss_/Desktop/SFV/AND.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity andGate
+-- Compiling architecture Behavioral of andGate
+
+} {} {}} C:/Users/miss_/Desktop/SFV/TestBench.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/miss_/Desktop/SFV/TestBench.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity bench
+-- Compiling architecture A of bench
+
+} {} {}} C:/Users/miss_/Desktop/SFV/INV.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/miss_/Desktop/SFV/INV.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity notGate
+-- Compiling architecture Behavioral of notGate
+
+} {} {}} C:/Users/miss_/Desktop/SFV/NAND.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/miss_/Desktop/SFV/NAND.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nandGate
+-- Compiling architecture Behavioral of nandGate
+
+} {} {}} C:/Users/miss_/Desktop/SFV/STATE_MACHINE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/miss_/Desktop/SFV/STATE_MACHINE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity stateMachine
+-- Compiling architecture arch of stateMachine
+
+} {} {}} C:/Users/miss_/Desktop/SFV/STATE_MACHINE_COMPUTE.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/miss_/Desktop/SFV/STATE_MACHINE_COMPUTE.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity stateMachineCompute
+-- Compiling architecture arch of stateMachineCompute
+
+} {} {}}

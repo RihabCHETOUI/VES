@@ -1,0 +1,14 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity nand_nor_top is
+    Port ( A1 : in  STD_LOGIC;      -- NOR gate input 1
+           B1 : in  STD_LOGIC;      -- NOR gate input 2
+           Y1 : out  STD_LOGIC);    -- NOR gate output
+end nand_nor_top;
+
+architecture Behavioral of nand_nor_top is
+begin
+
+Y1 <= A1 nor B1;     -- 2 input NOR gate
+end Behavioral;
